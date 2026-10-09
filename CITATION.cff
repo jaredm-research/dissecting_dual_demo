@@ -11,7 +11,7 @@ abstract: >-
 authors:
   - given-names: Jared
     family-names: McCullough
-version: "0.9.15"
+version: "0.9.16"
 date-released: "2026-10-09"
 license: Apache-2.0
 url: "https://jaredm-research.github.io/dissecting_dual_demo/"
