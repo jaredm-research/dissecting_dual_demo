@@ -1,0 +1,56 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "The Dissecting Dual (Pillar II)"
+abstract: >-
+  An interactive 3D viewer for six figurate polyhedral number families.
+  Each figure appears as its assembled integer lattice or dissected into
+  tetrahedral atoms (for the four convex families, the tetrahedra of a
+  pointed triangulation), and a slider moves continuously between the two
+  views.
+authors:
+  - given-names: Jared
+    family-names: McCullough
+version: "0.9.15"
+date-released: "2026-10-09"
+license: Apache-2.0
+url: "https://jaredm-research.github.io/dissecting_dual_demo/"
+repository-code: "https://github.com/jaredm-research/dissecting_dual_demo"
+keywords:
+  - figurate numbers
+  - polytope numbers
+  - tetrahedral numbers
+  - pointed triangulation
+  - dissection
+  - interactive visualization
+references:
+  - type: article
+    title: "Polytope numbers and their properties"
+    authors:
+      - given-names: "H. K."
+        family-names: Kim
+      - given-names: "J. Y."
+        family-names: Lee
+    year: 2012
+    doi: "10.48550/arXiv.1206.0511"
+    url: "https://arxiv.org/abs/1206.0511"
+    notes: >-
+      arXiv:1206.0511 [math.CO], version 1, 4 June 2012. Decomposition
+      theorem 1 (Theorem 4.1) is the result the Kim modes illustrate.
+  - type: article
+    title: "On regular polytope numbers"
+    authors:
+      - given-names: Hyun Kwang
+        family-names: Kim
+    journal: "Proceedings of the American Mathematical Society"
+    volume: 131
+    start: 65
+    end: 75
+    year: 2003
+    doi: "10.1090/S0002-9939-02-06710-2"
+  - type: database
+    title: "The On-Line Encyclopedia of Integer Sequences"
+    authors:
+      - name: "OEIS Foundation Inc."
+    url: "https://oeis.org"
+    notes: "A000292, A000330, A005900, A000578, A007588, A005898"

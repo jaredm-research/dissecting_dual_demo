@@ -1,0 +1,33 @@
+The Dissecting Dual (Pillar II)
+Copyright 2026 Jared McCullough
+
+This product is licensed under the Apache License, Version 2.0.
+The LICENSE file holds the full text.
+
+As Section 4(d) of the License provides, this NOTICE is informational
+only. It does not add to or change the License.
+
+Third-party material in this repository, under its own license:
+- The Latin Modern typefaces LM Roman 10 Regular, LM Roman 10 Italic,
+  LM Roman 17 Regular and LM Sans 10 Regular, version 2.004, unmodified,
+  embedded in index.html. Copyright 2003, 2009 B. Jackowski and
+  J. M. Nowacki (on behalf of TeX users groups), released under the GUST
+  Font License, whose text is in GUST-FONT-LICENSE.txt. The reading guide
+  in assets/ embeds subsets of seven Latin Modern faces under the same
+  license: LM Roman 10 Regular, Italic, Bold and Bold Italic, LM Roman 17
+  Regular, LM Sans 10 Bold and LM Mono 10 Regular. The complete collection
+  is published by GUST at
+  https://www.gust.org.pl/projects/e-foundry/latin-modern and on CTAN at
+  https://ctan.org/pkg/lm.
+
+Third-party software the page loads at runtime, not included here:
+- three.js r128 and its OrbitControls module, from the jsDelivr CDN
+  (MIT License).
+- The JetBrains Mono typeface, from Google Fonts (SIL Open Font
+  License 1.1).
+
+The mathematics the page illustrates is the published work of others:
+Theorem 4.1 of H. K. Kim and J. Y. Lee, "Polytope numbers and their
+properties," arXiv:1206.0511 (2012), and the sequences of the On-Line
+Encyclopedia of Integer Sequences (oeis.org). CITATION.cff lists the
+sources.
